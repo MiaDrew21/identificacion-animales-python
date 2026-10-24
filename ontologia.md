@@ -18,7 +18,7 @@ Una ontología organiza los conceptos de un tema y las relaciones que existen en
 
 ## 3. Gráfico de la ontología
 
-El gráfico presenta los principales vínculos entre las características, los grupos y los animales. GitHub representa el bloque Mermaid como un diagrama cuando se visualiza este archivo.
+El gráfico presenta los principales vínculos entre las características, los grupos y los animales. 
 
 ```mermaid
 flowchart TD

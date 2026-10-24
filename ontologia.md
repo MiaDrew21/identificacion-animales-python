@@ -1,9 +1,5 @@
 # Ontología para la identificación de animales
 
-**Integrantes:** Daniel y Mia  
-**Asignatura:** Programación Lógica y Funcional  
-**Proyecto:** Representación de hechos, reglas y relaciones de animales
-
 ## 1. Objetivo
 
 Organizar el conocimiento de la actividad de la bióloga Ana Torres y de las entrevistas realizadas por el equipo. Los hechos se representan en Python con un diccionario y las reglas con tuplas. A partir de las características registradas, el programa obtiene clasificaciones mediante inferencia.
@@ -109,24 +105,9 @@ La primera regla significa que, si un animal tiene pelo, se clasifica como mamí
 
 Las reglas son una representación simplificada para la práctica y no constituyen un método científico completo de identificación de especies.
 
-## 7. Cómo ejecutar el programa
 
-1. Instalar Python 3.
-2. Descargar el repositorio o guardar `main.py` en una carpeta.
-3. Abrir una terminal en esa carpeta.
-4. Ejecutar:
 
-```bash
-python main.py
-```
-
-El programa muestra los hechos, las reglas y las clasificaciones inferidas. No requiere instalar bibliotecas adicionales.
-
-## 8. Conclusión
+## 7 Conclusión
 
 Con esta representación aprendimos a organizar el conocimiento mediante hechos, predicados y reglas. El diccionario permite guardar las características de los animales, mientras que las tuplas representan las condiciones y conclusiones. El archivo Python utiliza estos datos para obtener clasificaciones y el diagrama de la ontología muestra de manera visual cómo se relacionan los conceptos.
 
-## 9. Integrantes
-
-- Daniel
-- Mia
